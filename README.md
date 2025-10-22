@@ -3,6 +3,8 @@
 ## Project Overview
 
 This project involves building a Power BI dashboard for AtliQ Hardware, a hardware distribution company based in Delhi, India. The dashboard provides sales directors with real-time insights into sales performance, market trends, customer behavior, and product analysis.
+<img width="569" height="344" alt="image" src="https://github.com/user-attachments/assets/cfa533d5-855b-4ba3-84aa-a58c3fa677db" />
+
 
 ### The Problem
 - Sales directors couldn't track sales performance easily.
@@ -165,8 +167,7 @@ MySQL DB → Power BI → Clean Data → Create Model → Build Dashboard
 
 ### Instructions to Setup MySQL on Your Local Computer
 
-1. Follow steps in this video to install MySQL on your local computer: https://www.youtube.com/watch?v=WuBcTJnIuzo
-2. SQL database dump is in `db_dump.sql` file. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video.
+ 1.SQL database dump is in `db_dump.sql` file. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video.
 
 ### Data Analysis Using SQL
 
