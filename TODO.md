@@ -1,0 +1,10 @@
+- [x] Update Project Overview section in README.md
+- [x] Add Database Structure section
+- [x] Add Data Cleaning section
+- [x] Add Data Model section
+- [x] Add Dashboard Features section
+- [x] Add Key Metrics and Insights section
+- [x] Add Recommendations section
+- [x] Add Technical Summary section
+- [x] Add Project Deliverables section
+- [x] Retain and adjust existing SQL sections if needed
